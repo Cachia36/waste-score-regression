@@ -32,3 +32,13 @@ This project demonstrates regression modeling applied to waste management data. 
    ```bash
    git clone https://github.com/your-username/waste-score-regression.git
    cd waste-score-regression
+2. (Optional) Create and activate a virtual machine
+   ```bash
+   python -m venv venv
+   source venv/bin/activate # or venv\Scripts\activate on Windows
+3. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+4. Launch the notebooks:
+   ```bash
+   jupyter notebook
